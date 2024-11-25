@@ -61,7 +61,7 @@ header {
 }
 
 .banner {
-    padding: 130px 0 400px 0;
+    padding: 140px 0 400px 0;
     text-align: center;
     max-width: 1000px;
     margin: 0 auto;
@@ -93,11 +93,7 @@ header {
     cursor: pointer;
 }
 
-
 /*///////////// 3.2 Testimonial /////////////*/
-
-.testimonial {
-}
 
 .artikel {
     padding: 60px;
@@ -109,7 +105,8 @@ header {
 
 .testimonial-quote {
     position: absolute;
-
+    width: 30px;
+    height: 30px;
 }
 
 blockquote {
@@ -130,9 +127,6 @@ blockquote {
 
 /*///////////// 3.3 Support /////////////*/
 
-.support {
-}
-
 .callcenter {
     width: 100%;
     border-radius: 11px;
@@ -149,6 +143,7 @@ blockquote {
 .team-link:hover {
     text-decoration: none;
 }
+
 .contact {
     color: white;
     font-size: 16px;
@@ -165,6 +160,7 @@ blockquote {
 }
 
 /*///////////// 3.4 Faq /////////////*/
+
 .faq {
     margin-bottom: 40px;
 }
